@@ -1,0 +1,2 @@
+dotnet publish SyncConsoleApp\SyncConsoleApp.csproj /p:PublishProfile=SyncConsoleApp\Properties\PublishProfiles\FolderProfile.pubxml
+dotnet publish AsyncConsoleApp\AsyncConsoleApp.csproj /p:PublishProfile=AsyncConsoleApp\Properties\PublishProfiles\FolderProfile.pubxml
